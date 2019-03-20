@@ -1,2 +1,0 @@
-# ExistingDomainReport
-Created with CodeSandbox
